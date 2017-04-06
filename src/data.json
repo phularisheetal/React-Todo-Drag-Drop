@@ -1,0 +1,68 @@
+export let data = [{
+  "id": 1,
+  "name": "Project 1",
+  "inProgress": true,
+  "todo": false,
+  "done": false
+}, {
+  "id": 2,
+  "name": "Project 8",
+  "inProgress": false,
+  "todo": true,
+  "done": false
+},{
+  "id": 3,
+  "name": "Project 3",
+  "inProgress": true,
+  "todo": false,
+  "done": false
+},{
+  "id": 4,
+  "name": "Project 4",
+  "inProgress": false,
+  "todo": true,
+  "done": false
+},{
+  "id": 5,
+  "name": "Project 5",
+  "inProgress": false,
+  "todo": true,
+  "done": false
+},{
+  "id": 6,
+  "name": "Project 6",
+  "inProgress": false,
+  "todo": true,
+  "done": false
+},{
+  "id": 7,
+  "name": "Project 7",
+  "inProgress": false,
+  "todo": false,
+  "done": true
+},{
+  "id": 8,
+  "name": "Project 8",
+  "inProgress": false,
+  "todo": false,
+  "done": true
+},{
+  "id": 9,
+  "name": "Project 9",
+  "inProgress": false,
+  "todo": false,
+  "done": true
+},{
+  "id": 10,
+  "name": "Project 10",
+  "inProgress": false,
+  "todo": false,
+  "done": true
+},{
+  "id": 11,
+  "name": "Project 11",
+  "inProgress": false,
+  "todo": false,
+  "done": true
+}]
+;
